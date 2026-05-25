@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Tilal Ahmed 👋
 
-<!--
-**TilalAhmed/TilalAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS graduate · ML & mobile developer · Karachi, Pakistan
 
-Here are some ideas to get you started:
+Building practical AI applications and looking for opportunities in software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+
+### 🗞️ [Fake News Detection](https://github.com/TilalAhmed/Fake-News-Detection)
+Multi-model NLP classifier using TF-IDF vectorization with 6 algorithms — SVM, Naïve Bayes, Decision Tree, and more.  
+**Accuracy: 99.5%** · `Python` `Scikit-learn` `FastAPI` `TF-IDF`
+
+---
+
+### 💧 [Hydro Mart](https://github.com/TilalAhmed/hydro-mart)
+Flutter + Firebase mobile app for water delivery order management.  
+Implemented Branch & Bound TSP for route optimization, achieving ~25% reduction in travel distance.  
+**Team project (3 members)** · `Flutter` `Dart` `Firebase`
+
+---
+
+### 🖼️ [CIFAR-10 Image Classifier](https://github.com/TilalAhmed/cifar10-image-classifier)
+Upgraded an ANN baseline (49% accuracy) to a CNN architecture using TensorFlow/Keras, reaching **68.9% accuracy**.  
+`TensorFlow` `Keras` `Python`
+
+---
+
+### 💬 [Sentiment Analysis — Amazon Reviews](https://github.com/TilalAhmed/sentiment-analysis-amazon-reviews)
+Sentiment scoring on Amazon product reviews using NLTK, TextBlob, and VADER.  
+**~85% accuracy** · `Python` `NLTK` `TextBlob` `VADER`
+
+---
+
+## 🛠️ Skills
+
+**Languages:** Python · Java · JavaScript · C++ · SQL  
+**Frameworks:** TensorFlow/Keras · Scikit-learn · FastAPI · Firebase  
+**NLP:** NLTK · VADER · TextBlob · TF-IDF  
+
+---
+
+## 📬 Contact
+
+- 📧 tilalahmed956@gmail.com  
+- 💼 [linkedin.com/in/tilalahmed](https://linkedin.com/in/tilalahmed)
