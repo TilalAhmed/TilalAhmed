@@ -44,5 +44,5 @@ Sentiment scoring on Amazon product reviews using NLTK, TextBlob, and VADER.
 ## 📬 Contact
 
 - 📧 tilalahmed956@gmail.com  
-- 💼 [linkedin.com/in/tilalahmed](https://linkedin.com/in/tilalahmed)
-- 🌐 [Portfolio](https://sites.google.com/view/tilalahmed/research-projects)
+- 💼 [LinkedIn](https://linkedin.com/in/tilal-ahmed-96778b311)
+- 🌐 [Portfolio](https://sites.google.com/view/tilalahmed)
