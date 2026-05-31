@@ -45,4 +45,4 @@ Sentiment scoring on Amazon product reviews using NLTK, TextBlob, and VADER.
 
 - 📧 tilalahmed956@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/tilal-ahmed-96778b311)
-- 🌐 [Portfolio][https://portfolio-eta-three-v6jh1t3uhf.vercel.app/]
+- 🌐 [Portfolio](https://portfolio-eta-three-v6jh1t3uhf.vercel.app/)
